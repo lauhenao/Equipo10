@@ -15,7 +15,7 @@
     "keywords": [
         "react"
     ],
-    "author": "Clara Catalina castro B ccbermudez@uninorte.edu.co>\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "author": "Clara Catalina Castro B <ccbermudez@uninorte.edu.co>, Laura Perez Henao <lhenaoc@uninorte.edu.co>, Kevin Duran Cano <ekduran@uninorte.edu.co>, Alexander Acosta Meriño <alexanderacosta@uninorte.edu.co>, Juan Espinosa Clavijo<jespinosap@uninorte.edu.co>",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/lauhenao/Equipo10/issues"
@@ -26,6 +26,7 @@
         "@babel/preset-env": "^7.16.4",
         "@babel/preset-react": "^7.16.0",
         "babel-loader": "^8.2.3",
+        "bootstrap": "^5.1.3",
         "css-loader": "^6.5.1",
         "html-loader": "^3.0.1",
         "html-webpack-plugin": "^5.5.0",
